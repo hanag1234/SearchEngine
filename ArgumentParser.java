@@ -1,5 +1,4 @@
-package edu.usfca.cs272;
-
+package SearchEngine;
 import java.nio.file.Path;
 import java.util.HashMap;
 
