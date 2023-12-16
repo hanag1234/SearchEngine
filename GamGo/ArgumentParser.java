@@ -1,4 +1,4 @@
-package SearchEngine;
+package GamGo;
 import java.nio.file.Path;
 import java.util.HashMap;
 
